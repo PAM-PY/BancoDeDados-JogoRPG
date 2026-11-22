@@ -29,6 +29,3 @@ Atividade do SENAI: criação das tabelas de um projeto de jogo RPG online utili
 5. Clique em **Execute (Executar)** ou pressione F5.
 6. No painel Object Explorer, atualize **Databases** e confira o banco `JogoRPG` e suas tabelas.
 
-## Observação
-
-O diagrama fornecido informa os nomes dos campos e os relacionamentos, mas não especifica os tamanhos dos campos de texto. Por isso, foram adotados tamanhos `VARCHAR` para os campos textuais. O script cria a estrutura; não inclui registros de exemplo.
